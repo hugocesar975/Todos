@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T13:34:28.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PEyWCZi8eFML39bdLSY9" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T13:41:26.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MRyFzdnnL-f-zh9Jip0_" version="21.6.9" type="github">
   <diagram name="Página-1" id="vXdbu9tl-B6xcEZQD5WK">
-    <mxGraphModel dx="1593" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -904,7 +904,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymwMWjb_XmzsokqA4yut-244" value="LOGIN" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#3333FF;" parent="1" vertex="1">
+        <mxCell id="ymwMWjb_XmzsokqA4yut-244" value="LOGIN" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="730" y="-190" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ymwMWjb_XmzsokqA4yut-245" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ymwMWjb_XmzsokqA4yut-244" vertex="1">
@@ -1028,7 +1028,7 @@
             <mxPoint x="1030" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymwMWjb_XmzsokqA4yut-273" value="BIOMETRIA_FACIAL" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#3333FF;" parent="1" vertex="1">
+        <mxCell id="ymwMWjb_XmzsokqA4yut-273" value="BIOMETRIA_FACIAL" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="1130" y="-180" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ymwMWjb_XmzsokqA4yut-283" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="ymwMWjb_XmzsokqA4yut-273" vertex="1">
